@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c04def-5369-417c-b0e1-85f3fc640ee9" name="Default Changelist" comment="" />
+    <list default="true" id="96c04def-5369-417c-b0e1-85f3fc640ee9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2차배열주의할것.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1208.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1284.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1288.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1928.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1945.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1959.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_1989.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_2007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_4831(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_4836.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_4837.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_4839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swexpert_4843.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swexpert_4831.py" beforeDir="false" afterPath="$PROJECT_DIR$/swexpert_4831.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,58 +30,65 @@
     <session id="-777291461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="29" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="21" />
           <entry key="Scratch" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="7980" />
+          <entry key="py" value="14995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="4521" />
+          <entry key="Python" value="11536" />
           <entry key="Scratch" value="3459" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/swexpert_4831.py">
+        <entry file="file://$PROJECT_DIR$/swexpert_4839.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <marker date="1580207772916" expanded="true" signature="37:38" ph="..." />
-                <marker date="1580207772916" expanded="true" signature="37:621" ph="..." />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swexpert_1959.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -76,6 +101,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,47 +120,48 @@
         <option value="$PROJECT_DIR$/swexpert_4828.py" />
         <option value="$PROJECT_DIR$/swexpert_4834.py" />
         <option value="$PROJECT_DIR$/swexpert_4835.py" />
-        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/swexpert_1208.py" />
         <option value="$PROJECT_DIR$/swexpert_4831.py" />
+        <option value="$PROJECT_DIR$/swexpert_4831(2).py" />
+        <option value="$PROJECT_DIR$/swexpert_4843.py" />
+        <option value="$PROJECT_DIR$/swexpert_4836.py" />
+        <option value="$PROJECT_DIR$/swexpert_4837.py" />
+        <option value="$PROJECT_DIR$/swexpert_1284.py" />
+        <option value="$PROJECT_DIR$/swexpert_1288.py" />
+        <option value="$PROJECT_DIR$/swexpert_1989.py" />
+        <option value="$PROJECT_DIR$/swexpert_1959.py" />
+        <option value="$PROJECT_DIR$/swexpert_2007.py" />
+        <option value="$PROJECT_DIR$/swexpert_4839.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1019" />
-    <option name="y" value="142" />
-    <option name="width" value="923" />
-    <option name="height" value="844" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="892" />
+    <option name="y" value="203" />
+    <option name="width" value="832" />
+    <option name="height" value="704" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="swexpert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swexpert" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/swexpert_4839.py" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\swProblem\swexpert" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\multicampus\swProblem\swexpert" />
+      <recent name="C:\Users\multicampus\swProblem" />
       <recent name="C:\Users\multicampus\.PyCharmCE2018.2\config\scratches" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\swProblem\swexpert" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -147,8 +176,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.swexpert_4831">
-    <configuration name="swexpert_1206" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.swexpert_4843">
+    <configuration name="swexpert_1959" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_1206.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_1959.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swexpert_1983 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="swexpert_1989" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_1983.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_1989.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swexpert_2001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="swexpert_4839" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +231,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_2001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_4839.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swexpert_4831" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="swexpert_4843" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +252,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_4831.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert_4843.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,18 +284,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.swexpert_1206" />
-      <item itemvalue="Python.swexpert_1983 (1)" />
-      <item itemvalue="Python.swexpert_2001" />
-      <item itemvalue="Python.swexpert_4831" />
+      <item itemvalue="Python.swexpert_4839" />
+      <item itemvalue="Python.swexpert_1989" />
+      <item itemvalue="Python.swexpert_1959" />
+      <item itemvalue="Python.swexpert_4843" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.swexpert_4831" />
+        <item itemvalue="Python.swexpert_4843" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.swexpert_2001" />
-        <item itemvalue="Python.swexpert_1983 (1)" />
-        <item itemvalue="Python.swexpert_1206" />
+        <item itemvalue="Python.swexpert_4839" />
+        <item itemvalue="Python.swexpert_1959" />
+        <item itemvalue="Python.swexpert_1989" />
       </list>
     </recent_temporary>
   </component>
@@ -284,23 +313,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1019" y="142" width="923" height="844" extended-state="0" />
+    <frame x="1018" y="242" width="832" height="704" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24971752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32957748" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48169014" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4622144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32957748" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32846716" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,6 +356,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swexpert_4836.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scratch.py">
@@ -420,21 +460,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/swexpert_1208.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="266">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <marker date="1580258200547" expanded="true" signature="67:72" ph="..." />
+            <marker date="1580258200547" expanded="true" signature="195:200" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/swexpert_4831.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="95">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
-            <marker date="1580207772916" expanded="true" signature="37:38" ph="..." />
-            <marker date="1580207772916" expanded="true" signature="37:621" ph="..." />
+            <marker date="1580260899411" expanded="true" signature="37:38" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_4831(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <marker date="1580261180256" expanded="true" signature="36:37" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_4836.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2차배열주의할것.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_4843.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_4837.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_1945.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_1928.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_1284.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_1288.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_1989.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_2007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_1959.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swexpert_4839.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>

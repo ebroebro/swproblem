@@ -14,8 +14,8 @@ for z in range(T):
     end=K
     while 1:
         zero=0
-        for i in range(start+1,end+1):
-            if charger_station[i]==1:
+        for i in range(start+1,end+1): #이렇게 해도 되는 이유...
+            if charger_station[i]==1: #앞에 존재해도 뒤에있으면 그것때문에 값이 바뀌기 때문에 뒤에 있는 정류장값만 남음..
                 start=i
             else :
                 zero+=1
