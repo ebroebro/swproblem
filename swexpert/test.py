@@ -1,14 +1,11 @@
-T = int(input())
-for z in range(T):
-    N = int(input())
-    data = list(map(int, input().split()))
-    result = []
-
-    while len(data):
-        data = sorted(data)
-        result.append(data.pop())
-        data = sorted(data, reverse=True)
-
-        result.append(data.pop())
-        k = ' '.join(list(map(str, result[:10])))   # int 있는걸 다 str으로 바꿔주고 join 이용해서 인쇄하면댐!!
-    print("#{} {}".format(z + 1, k))
+n=int(input())
+a,b=n-1,n
+while True :
+    c=(a+b)/2
+    if c**2 > n :
+        b=c
+    elif c**2 <n :
+        a=c
+    if round(a,5)==round(b,5):
+        print(a)
+        break
