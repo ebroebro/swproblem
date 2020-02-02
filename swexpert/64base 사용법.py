@@ -22,4 +22,5 @@ d = base64.b64decode(e)
 s2 = d.decode("UTF-8")
 print(s2)
 
-#
+# str.decode/ encode ("UTF-8") 이게 문자와 byte서로 변경하는거
+# base64.b64encode / b64decode 이게 byte로 된걸 base64형태로 서로 변경하는거
