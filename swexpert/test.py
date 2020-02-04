@@ -1,16 +1,22 @@
-#1976. 시각 덧셈
-# T=int(input())
-# for z in range(T):
+#7일차 금속막대
+n=3
+data=[3,4,2,3,4,5]
+# data=[1,2,5,1,2,4,4,3]
 
+##나사 세트 받기
+data_list1 = []  #수나사
+data_list2=[]   #암나사
+for i in range(len(data)):
+    if i %2:
+        data_list2.append(data[i])
+    else:
+        data_list1.append(data[i])
+nasa_all =[]
+for i in range(n):
+    nasa_all.append([data_list1[i],data_list2[i]])
 
-    m_d = {1:31,2:28 ,3:31,4:30,5:31,6:30,7:31,8:31,9:30,10:31,11:30,12:31}
-
-    h1,d1,m2,d2 = list(map(int,input().split()))
-    day=0
-    for i in range(m1,m2):
-        day+=m_d[i]
-    day=day-d1+d2+1
-
-
-
-    # print("#{} {}".format(z+1,day))
+nasa=[]
+for i in range(len(nasa_all)):
+    for j in range(2):
+        nasa.append(nasa_all[i][j])
+print(' '.join(map(str,nasa)))
