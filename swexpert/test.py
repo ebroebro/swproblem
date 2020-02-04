@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #7일차 금속막대
 n=3
 data=[3,4,2,3,4,5]
@@ -20,3 +21,5 @@ for i in range(len(nasa_all)):
     for j in range(2):
         nasa.append(nasa_all[i][j])
 print(' '.join(map(str,nasa)))
+=======
+>>>>>>> 926a73b8e9261cf34db790fd02bb1a78b3bdead4

@@ -1,13 +1,3 @@
-#1928 Base64 Decoder
-import base64  ##  Base 64 encoding , decoding 하는 함수
-
-T = int(input())
-for z in range(T):
-    words = base64.b64decode(input())
-    rslt = words.decode("UTF-8")
-    print("#{} {}".format(z + 1, rslt))
-
-    '''
 import base64
 
 
@@ -27,8 +17,10 @@ print("Base64 Encoded:", s1)
 
 ##decoding 과정 (64base-> byte->문자)
 # Decoding the Base64 bytes
-d = base64.b64decode(b)
+d = base64.b64decode(e)
 # Decoding the bytes to string
 s2 = d.decode("UTF-8")
 print(s2)
-'''
+
+# str.decode/ encode ("UTF-8") 이게 문자와 byte서로 변경하는거
+# base64.b64encode / b64decode 이게 byte로 된걸 base64형태로 서로 변경하는거
