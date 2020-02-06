@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ce384-657d-4972-8695-a664377b57fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../백준/baekjoon_13304.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/baekjoon_14696.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/baekjoon_13304.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/baekjoon_13304.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7794" />
+          <entry key="py" value="8273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7794" />
+          <entry key="Python" value="8273" />
         </counts>
       </usages-collector>
     </session>
@@ -62,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../백준/baekjoon_14696.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="57">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -71,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../백준/baekjoon_13304.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="325">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -147,7 +146,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.baekjoon_14696">
+  <component name="RunManager" selected="Python.baekjoon_13304">
+    <configuration name="baekjoon_13304" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../백준" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../백준/baekjoon_13304.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="baekjoon_14696" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,27 +231,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day05swexpert_1959" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/lecture/조제형/알고리즘 수업/CODE" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/lecture/조제형/알고리즘 수업/CODE/day05swexpert_1959.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,18 +254,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.day05swexpert_1959" />
       <item itemvalue="Python.day05swexpert_1493" />
       <item itemvalue="Python.day05swexpert_1493(2)" />
       <item itemvalue="Python.baekjoon_14696" />
+      <item itemvalue="Python.baekjoon_13304" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baekjoon_13304" />
         <item itemvalue="Python.baekjoon_14696" />
         <item itemvalue="Python.day05swexpert_1493(2)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.day05swexpert_1493" />
-        <item itemvalue="Python.day05swexpert_1959" />
       </list>
     </recent_temporary>
   </component>
@@ -413,15 +412,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../백준/baekjoon_14696.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../백준/baekjoon_13304.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="325">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
