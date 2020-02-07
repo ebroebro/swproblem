@@ -6,7 +6,7 @@ for j in range(n+1):
     for i in range(n):
         num = data_list[i]-data_list[i+1]
         if num<0 :
-            break
+            breakㄴ
         data_list.append(num)
 
         if len(max_list) < len(data_list):
