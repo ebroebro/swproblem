@@ -4,7 +4,7 @@ max_list=[n]
 for i in range(1,n):
     data_list=[n,i]
     while True:
-        num = data_list[-1]+data_list[-2]
+        num = data_list[len(data_list)-1]+data_list[len(data_list)-2]
         if num <0 :
             break
         else:
