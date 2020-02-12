@@ -14,9 +14,6 @@ data_list = sorted(data_list)
 for i in range(n):
     pst.append(data_list[i][0])
     height.append(data_list[i][1])
-print(data_list)
-print(pst)
-print(height)
 
 max_index= height.index(max(height)) #가운데 값
 area = max(height)  #가운데 제일 큰값
@@ -29,22 +26,11 @@ for i in range(max_index+1):
         next_max=height[i]
         next_pst=pst[i]
 #뒤에서 가운데로
-pst=pst[::-1]
-height=height[::-1]
-
-max_index= height.index(max(height)) #가운데 값
-area = max(height)  #가운데 제일 큰값
-#앞에서 가운데로
-next_max=height[0]
-next_pst=pst[0]
-print(pst)
-print(height)
-for i in range(max_index+1):
-    if next_max < height[i]:
-        area+=abs(pst[i]-next_pst)*next_max
-        next_max=height[i]
-        next_pst=pst[i]
-
-
-
+next_max=height[len(height)-1]
+next_pst=pst[len(height)-1]
+for i in range(n-1,max_index-1,-1):
+    if next_max <height[i]:
+        area += abs(pst[i] - next_pst) * next_max
+        next_max = height[i]
+        next_pst = pst[i]
 print(area)
