@@ -13,6 +13,7 @@ for i in range(n):
     height.append(data_list[i][1])
 
 max_index= height.index(max(height)) #가운데 값
+<<<<<<< HEAD
 
 print(max_index)
 # area = max(height)  #가운데 제일 큰값
@@ -37,4 +38,23 @@ for i in height2[::-1]:
         next_max=i
     area+=next_max
 
+=======
+area = max(height)  #가운데 제일 큰값
+#앞에서 가운데로
+next_max=height[0]
+next_pst=pst[0]
+for i in range(max_index+1):
+    if next_max < height[i]:
+        area+=(pst[i]-next_pst)*next_max
+        next_max=height[i]
+        next_pst=pst[i]
+#뒤에서 가운데로
+next_max=height[len(height)-1]
+next_pst=pst[len(height)-1]
+for i in range(n-1,max_index-1,-1):
+    if next_max <height[i]:
+        area += abs(pst[i] - next_pst) * next_max
+        next_max = height[i]
+        next_pst = pst[i]
+>>>>>>> 551cb704d3ce491bf29a7b9eadc301102a39a75b
 print(area)
