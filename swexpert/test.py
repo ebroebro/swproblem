@@ -1,20 +1,20 @@
-n, m, k = list(map(int, input().split()))
-people = list(map(int, input().split()))
-data_list = [0 for _ in range(max(people) + 1)]
-tmp = 0
-isPossible = 'Possible'
-for i in range(1,len(data_list)):
-    data_list[i] = tmp
-    if i % m == 0:
-        tmp += k
-        print(i)
-        break
-# print(data_list)
-people = sorted(people)
-# print(people)
-print(people)
-for i in range(len(people)):
-    if data_list[people[i]] < i + 1:
-        isPossible = 'Impossible'
-        break
-print("#{} {}".format(1, isPossible))
+T=int(input())
+for z in range(T):
+    N=int(input())
+    a_list=[]
+    b_list=[]
+    for i in range(N):
+        a,b=list(map(int,input().split()))
+        a_list.append(a)
+        b_list.append(b)
+    P=int(input())
+    rslt_list =[]
+    for i in range(P):
+        c=int(input())
+        cnt=0
+        for j in range(N):
+            if c>=a_list[j] and c<=b_list[j]:
+                cnt+=1
+        rslt_list.append(cnt)
+    print("#{}".format(z+1),end=' ')
+    print(*rslt_list)
