@@ -1,2 +1,4 @@
-tmp=[1,2,3]
+tmp=wow
+
+tmp.insert(3,1)
 print((tmp))
