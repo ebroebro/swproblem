@@ -1,4 +1,8 @@
-tmp=wow
+from pprint import pprint
 
-tmp.insert(3,1)
-print((tmp))
+char=['R','L','U','D']
+change=['>','<','^','v']
+dx=[1,-1,0,0]
+dy=[0,0,1,-1]
+
+print(char.index('U'))
