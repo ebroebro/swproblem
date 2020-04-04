@@ -1,4 +1,9 @@
-from sys import stdin
+#BOJ 17141 연구소2
+from pprint import pprint
+#1 여러개의 2 중에서 넣을 곳 선택하기 DFS 이용한 조합
+#2 각각 BFS 통해서 꽉 찰때까지 해보기 할때마다 MIN값 찾기
+#또,, ㅎ한번 할때 마다 0이 있는지 없는지 판단해보기..
+#3 1로 하지 않고 마이너스 숫자로 집어 넣을까
 
 # bfs로 각 조합 경우 별 걸리는 시간 판단
 def bfs(virus_tmp):
@@ -27,8 +32,6 @@ def bfs(virus_tmp):
             if max_second < min_rslt:
                 min_rslt=max_second
             break
-
-
 #dfs로 조합 만들어내기
 def dfs(virus_tmp,k):
     if k > len(virus):
@@ -42,8 +45,8 @@ def dfs(virus_tmp,k):
 
 
 
-n,m = list(map(int,stdin.readline().split()))
-map_list=[list(map(int,stdin.readline().split())) for _ in range(n)]
+n,m = list(map(int,input().split()))
+map_list=[list(map(int,input().split())) for _ in range(n)]
 virus=[]
 min_rslt=987654321
 wall=0

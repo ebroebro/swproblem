@@ -7,7 +7,7 @@ def f(x,y):
         return
     for i in range(4):
         newx=x+dx[i]
-        newy=y+dy[i]
+        newy=y+dy[i]d
         if 0<=newx<n and 0<=newy<n and [newx,newy] not in visited and map_list[newx][newy]!=1:
             visited.append([newx,newy])
             cnt+=1
