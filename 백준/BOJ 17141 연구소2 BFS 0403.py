@@ -20,18 +20,18 @@ def bfs(virus_tmp):
             if 0<=newx<n and 0<=newy<n and visited[newx][newy]==-1 and map_list[newx][newy]!=1:
                 visited[newx][newy]=visited[tmp[0]][tmp[1]]+1
                 queue.append([newx,newy])
-        cnt=0
-        max_second=0
-        for j in range(n):
-            for k in range(n):
-                if visited[j][k]>max_second:
-                    max_second=visited[j][k]
-                if visited[j][k]==-1:
-                    cnt+=1
-        if cnt==wall:
-            if max_second < min_rslt:
-                min_rslt=max_second
-            break
+    cnt=0
+    max_second=0
+    for j in range(n):
+        for k in range(n):
+            if visited[j][k]>max_second:
+                max_second=visited[j][k]
+            if visited[j][k]==-1:
+                cnt+=1
+    if cnt==wall:
+        if max_second < min_rslt:
+            min_rslt=max_second
+
 #dfs로 조합 만들어내기
 def dfs(virus_tmp,k):
     if k > len(virus):
