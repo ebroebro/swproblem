@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c04def-5369-417c-b0e1-85f3fc640ee9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/swexpert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/swexpert.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,52 +24,30 @@
   </component>
   <component name="ProjectId" id="1a7gTjUewXSfZ9KP1KzhMmGtGvy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/multicampus/swProblem/백준/baekjoon_2635.py" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$USER_HOME$/lecture/조제형/알고리즘 수업" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\조제형\GIT\swproblem\swexpert" />
       <recent name="C:\Users\multicampus\swProblem\swexpert" />
       <recent name="C:\Users\multicampus\lecture\조제형\알고리즘 수업\CODE" />
       <recent name="C:\Users\multicampus\lecture\조제형\알고리즘 수업" />
       <recent name="C:\Users\multicampus\swProblem\백준" />
-      <recent name="C:\Users\multicampus\swProblem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\multicampus\swProblem\swexpert" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.swexpert 2806 N Queen">
-    <configuration name="0213_여자친구 최소비용_교수님 풀이" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="swexpert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/lecture/조제형/알고리즘 수업/CODE" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/lecture/조제형/알고리즘 수업/CODE/0213_여자친구 최소비용_교수님 풀이.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration name="0213_여자친구 최소비용_다시" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +111,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="swea 4615 재밌는 오셀로 게임 0312" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\조제형\SWProblem\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea 4615 재밌는 오셀로 게임 0312.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="swexpert 2806 N Queen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,20 +153,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\조제형\SWProblem\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.0213_여자친구 최소비용_교수님 풀이" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.0213_여자친구 최소비용" />
       <item itemvalue="Python.0213_여자친구 최소비용_다시" />
       <item itemvalue="Python.0214_문자열 비교 KMP" />
       <item itemvalue="Python.swexpert 2806 N Queen" />
+      <item itemvalue="Python.swea 4615 재밌는 오셀로 게임 0312" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea 4615 재밌는 오셀로 게임 0312" />
         <item itemvalue="Python.swexpert 2806 N Queen" />
         <item itemvalue="Python.0213_여자친구 최소비용_다시" />
         <item itemvalue="Python.0214_문자열 비교 KMP" />
         <item itemvalue="Python.0213_여자친구 최소비용" />
-        <item itemvalue="Python.0213_여자친구 최소비용_교수님 풀이" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +215,62 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
+    <state x="359" y="0" key="#swea_4615_재밌는_오셀로_게임_0312" timestamp="1586765606206">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="359" y="0" key="#swea_4615_재밌는_오셀로_게임_0312/0.0.1280.720@0.0.1280.720" timestamp="1586765606206" />
     <state x="0" y="0" key="#swexpert_2806_N_Queen" timestamp="1586092324657">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="0" y="0" key="#swexpert_2806_N_Queen/0.0.1280.720@0.0.1280.720" timestamp="1586092324657" />
-    <state x="444" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1586152402022">
+    <state x="499" y="0" key="#test" timestamp="1586765649790">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="444" y="231" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1586152402022" />
+    <state x="499" y="0" key="#test/0.0.1280.720@0.0.1280.720" timestamp="1586765649790" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1586765518969">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586765518969" />
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1586775070295">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586775070295" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1586775070295">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586775070295" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1586775070294">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586775070294" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1586775070295">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586775070295" />
+    <state width="1259" height="176" key="GridCell.Tab.1.bottom" timestamp="1586775070296">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586775070296" />
+    <state width="1259" height="176" key="GridCell.Tab.1.center" timestamp="1586775070296">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1586775070296" />
+    <state width="1259" height="176" key="GridCell.Tab.1.left" timestamp="1586775070295">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1586775070295" />
+    <state width="1259" height="176" key="GridCell.Tab.1.right" timestamp="1586775070296">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="176" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1586775070296" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1586765868087">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586765868087" />
+    <state x="444" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1586765579537">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="444" y="231" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1586765579537" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
