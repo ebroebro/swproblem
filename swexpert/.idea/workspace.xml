@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c04def-5369-417c-b0e1-85f3fc640ee9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/swea 0416 tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea 5174 substree 0416.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea 5174 substree_2 0416.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea 5178 노드의 합 0416.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -38,9 +34,6 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\swProblem\swexpert" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\조제형\GIT\swproblem\swexpert" />
       <recent name="C:\Users\multicampus\swProblem\swexpert" />
@@ -48,8 +41,32 @@
       <recent name="C:\Users\multicampus\lecture\조제형\알고리즘 수업" />
       <recent name="C:\Users\multicampus\swProblem\백준" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\swProblem\swexpert" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.swea 5174 substree_2 0416">
+  <component name="RunManager" selected="Python.별자리">
+    <configuration name="별자리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/별자리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="swea 4615 재밌는 오셀로 게임 0312" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,27 +151,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swexpert 2806 N Queen" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="swexpert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swexpert 2806 N Queen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,19 +174,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.swexpert 2806 N Queen" />
       <item itemvalue="Python.swea 4615 재밌는 오셀로 게임 0312" />
       <item itemvalue="Python.swea 5174 substree 0416" />
       <item itemvalue="Python.swea 5178 노드의 합 0416" />
       <item itemvalue="Python.swea 5174 substree_2 0416" />
+      <item itemvalue="Python.별자리" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.별자리" />
         <item itemvalue="Python.swea 5174 substree_2 0416" />
         <item itemvalue="Python.swea 5178 노드의 합 0416" />
         <item itemvalue="Python.swea 5174 substree 0416" />
         <item itemvalue="Python.swea 4615 재밌는 오셀로 게임 0312" />
-        <item itemvalue="Python.swexpert 2806 N Queen" />
       </list>
     </recent_temporary>
   </component>
@@ -233,46 +229,46 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586765518969" />
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1587027951381">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1587087332575">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587027951381" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1587027951380">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587087332575" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1587087332574">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587027951380" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1587027951380">
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587087332574" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1587087332573">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587027951380" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1587027951381">
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587087332573" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1587087332575">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587027951381" />
-    <state width="1259" height="176" key="GridCell.Tab.1.bottom" timestamp="1587027951383">
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587087332575" />
+    <state width="1259" height="176" key="GridCell.Tab.1.bottom" timestamp="1587087332579">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587027951383" />
-    <state width="1259" height="176" key="GridCell.Tab.1.center" timestamp="1587027951382">
+    <state width="1259" height="176" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587087332579" />
+    <state width="1259" height="176" key="GridCell.Tab.1.center" timestamp="1587087332577">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1587027951382" />
-    <state width="1259" height="176" key="GridCell.Tab.1.left" timestamp="1587027951381">
+    <state width="1259" height="176" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1587087332577" />
+    <state width="1259" height="176" key="GridCell.Tab.1.left" timestamp="1587087332576">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1587027951381" />
-    <state width="1259" height="176" key="GridCell.Tab.1.right" timestamp="1587027951382">
+    <state width="1259" height="176" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1587087332576" />
+    <state width="1259" height="176" key="GridCell.Tab.1.right" timestamp="1587087332578">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="176" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1587027951382" />
+    <state width="1259" height="176" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1587087332578" />
     <state x="142" y="3" key="SettingsEditor" timestamp="1586765868087">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586765868087" />
-    <state x="444" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1586997942111">
+    <state x="444" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1587086163313">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="444" y="231" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1586997942111" />
+    <state x="444" y="231" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1587086163313" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587027015655">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -346,15 +342,18 @@
           <line>2</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/별자리.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="max_num" language="Python" />
-        <watch expression="tmp" language="Python" />
-        <watch expression="lines[i]" language="Python" />
-        <watch expression="post" language="Python" />
-        <watch expression="L[post]" language="Python" />
+        <watch expression="visited" language="Python" />
+        <watch expression="map_list[i][j]" language="Python" />
+        <watch expression="map_list[newx][newy]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
